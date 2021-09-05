@@ -1,0 +1,6 @@
+__pycache__
+runs
+saved_models
+run-deve.py
+**/processed
+**/raw
