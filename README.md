@@ -6,7 +6,8 @@ The code has been tested running under Python 3.8. The required packages are lis
 
 # Dataset
 ``chp`` is the ChP dataset mentioned in paper, built from Pharmacopeia of the People's Republic of China 2015 Edition.
+
 ``tcm`` is the TCMRel mentioned in paper.
 
 # Run the code
-``run.py`` is the main python file to run the model & downstream task.
+``run.py`` is the main python file to run the model & downstream tasks.
